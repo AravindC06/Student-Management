@@ -10,14 +10,7 @@ A simple web application to manage a list of students with full CRUD (Create, Re
 - Delete students from the list.
 - User-friendly interface for easy management of student records.
 
-## Tech Stack
-
-- **Frontend:** ReactJS, Material-UI
-- **Backend:** Node.js, Express
-- **Database:** MongoDB Atlas
-- **Others:** React Hook Form, SCSS, Typescript
-
-# Frontend - Documentation
+# Documentation
 
 This document provides an overview of the frontend components used in the project.
 
