@@ -1,5 +1,5 @@
 {
-  "homepage":"http://AravindC06.github.io/Student-Management-Client",
+  "homepage": "http://AravindC06.github.io/Student-Management-Client",
   "name": "student-management",
   "version": "0.1.0",
   "private": true,
@@ -29,7 +29,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -53,6 +53,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "typescript": "^4.9.5"
   }
 }
