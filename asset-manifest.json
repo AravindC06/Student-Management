@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Student-Management-Client/static/css/main.13712307.css",
+    "main.js": "/Student-Management-Client/static/js/main.66fb385b.js",
+    "static/js/453.a3998bfd.chunk.js": "/Student-Management-Client/static/js/453.a3998bfd.chunk.js",
+    "static/media/Frame.svg": "/Student-Management-Client/static/media/Frame.126691587e6e3abc859e96873cd19011.svg",
+    "static/media/edit.svg": "/Student-Management-Client/static/media/edit.5cdcb9281f840070a230caf25e0a80d5.svg",
+    "index.html": "/Student-Management-Client/index.html",
+    "main.13712307.css.map": "/Student-Management-Client/static/css/main.13712307.css.map",
+    "main.66fb385b.js.map": "/Student-Management-Client/static/js/main.66fb385b.js.map",
+    "453.a3998bfd.chunk.js.map": "/Student-Management-Client/static/js/453.a3998bfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13712307.css",
+    "static/js/main.66fb385b.js"
+  ]
+}
